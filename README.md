@@ -1,5 +1,3 @@
 # flash_chat_flutter
 
-A new Flutter project.
-
-A messaging app where users can sign up and log in to chat.
+Creating a fresh Flutter project that involves creating a messaging application that enables users to register, log in, and engage in conversations.
